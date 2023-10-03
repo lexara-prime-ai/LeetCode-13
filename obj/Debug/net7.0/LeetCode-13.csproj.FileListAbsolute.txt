@@ -1,0 +1,14 @@
+C:\Users\IrfanGhat\Desktop\LeetCode-13\bin\Debug\net7.0\LeetCode-13.exe
+C:\Users\IrfanGhat\Desktop\LeetCode-13\bin\Debug\net7.0\LeetCode-13.deps.json
+C:\Users\IrfanGhat\Desktop\LeetCode-13\bin\Debug\net7.0\LeetCode-13.runtimeconfig.json
+C:\Users\IrfanGhat\Desktop\LeetCode-13\bin\Debug\net7.0\LeetCode-13.dll
+C:\Users\IrfanGhat\Desktop\LeetCode-13\bin\Debug\net7.0\LeetCode-13.pdb
+C:\Users\IrfanGhat\Desktop\LeetCode-13\obj\Debug\net7.0\LeetCode-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrfanGhat\Desktop\LeetCode-13\obj\Debug\net7.0\LeetCode-13.AssemblyInfoInputs.cache
+C:\Users\IrfanGhat\Desktop\LeetCode-13\obj\Debug\net7.0\LeetCode-13.AssemblyInfo.cs
+C:\Users\IrfanGhat\Desktop\LeetCode-13\obj\Debug\net7.0\LeetCode-13.csproj.CoreCompileInputs.cache
+C:\Users\IrfanGhat\Desktop\LeetCode-13\obj\Debug\net7.0\LeetCode-13.dll
+C:\Users\IrfanGhat\Desktop\LeetCode-13\obj\Debug\net7.0\refint\LeetCode-13.dll
+C:\Users\IrfanGhat\Desktop\LeetCode-13\obj\Debug\net7.0\LeetCode-13.pdb
+C:\Users\IrfanGhat\Desktop\LeetCode-13\obj\Debug\net7.0\LeetCode-13.genruntimeconfig.cache
+C:\Users\IrfanGhat\Desktop\LeetCode-13\obj\Debug\net7.0\ref\LeetCode-13.dll
